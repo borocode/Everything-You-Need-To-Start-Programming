@@ -64,4 +64,4 @@ f"so hopelessly {adj[1]} on the {system}, that they will {fight} to protect it."
 
 # Print Story
 print(madlibsStory)
-input()
+input
