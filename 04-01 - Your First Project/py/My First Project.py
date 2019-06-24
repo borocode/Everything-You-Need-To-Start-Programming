@@ -21,7 +21,7 @@ print(f"Hello {neo}! Are you ready?")
 theMatrix = input("What is something you want to know more about: ")
 
 # Getting system variable from user
-print(f"Oooh! You want to know more about {theMatrix} huh?")
+print(f"Ooh! You want to know more about {theMatrix} huh?")
 print(f"Okay well first, tell me what you already know about {theMatrix}")
 system = input(f"what noun would you categorize {theMatrix} as: ")
 
@@ -64,4 +64,4 @@ f"so hopelessly {adj[1]} on the {system}, that they will {fight} to protect it."
 
 # Print Story
 print(madlibsStory)
-input
+input()
