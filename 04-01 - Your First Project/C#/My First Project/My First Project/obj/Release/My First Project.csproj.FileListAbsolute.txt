@@ -1,0 +1,7 @@
+C:\Users\rishad\Documents\Jabrils\Everything-I-Need-To-Start-Programming\Everything-You-Need-To-Start-Programming\04-01 - Your First Project\C#\My First Project\My First Project\bin\Release\My First Project.exe.config
+C:\Users\rishad\Documents\Jabrils\Everything-I-Need-To-Start-Programming\Everything-You-Need-To-Start-Programming\04-01 - Your First Project\C#\My First Project\My First Project\bin\Release\My First Project.exe
+C:\Users\rishad\Documents\Jabrils\Everything-I-Need-To-Start-Programming\Everything-You-Need-To-Start-Programming\04-01 - Your First Project\C#\My First Project\My First Project\bin\Release\My First Project.pdb
+C:\Users\rishad\Documents\Jabrils\Everything-I-Need-To-Start-Programming\Everything-You-Need-To-Start-Programming\04-01 - Your First Project\C#\My First Project\My First Project\obj\Release\My First Project.csprojAssemblyReference.cache
+C:\Users\rishad\Documents\Jabrils\Everything-I-Need-To-Start-Programming\Everything-You-Need-To-Start-Programming\04-01 - Your First Project\C#\My First Project\My First Project\obj\Release\My First Project.csproj.CoreCompileInputs.cache
+C:\Users\rishad\Documents\Jabrils\Everything-I-Need-To-Start-Programming\Everything-You-Need-To-Start-Programming\04-01 - Your First Project\C#\My First Project\My First Project\obj\Release\My First Project.exe
+C:\Users\rishad\Documents\Jabrils\Everything-I-Need-To-Start-Programming\Everything-You-Need-To-Start-Programming\04-01 - Your First Project\C#\My First Project\My First Project\obj\Release\My First Project.pdb
